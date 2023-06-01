@@ -3,16 +3,40 @@
 Você acabou de ser contratado pela melhor empresa de tecnologia do mundo: a **CUBOS**.
 Sua primeira tarefa como desenvolvedor é criar uma aplicação para um serviço de streaming (pense num Netflix).
 
-Seu papel é construir um website com [o seguinte design](https://www.figma.com/file/CLrsT8zY1Tfr53dinLljMu/Desafio-M%C3%B3dulo-2----2.0?node-id=0%3A1) que permita: (funcionalidades com \* ao lado são obrigatórias)
+Seu papel é construir um website que permita:
 
-- Visualização de filmes (\*)
-- Paginação de filmes (\*)
-- Busca de filmes (\*)
-- "Filme do dia" (\*)
-- Modal de filme (\*)
+- Visualização de filmes 
+- Paginação de filmes 
+- Busca de filmes 
+- "Filme do dia" 
+- Modal de filme 
 - Mudança de tema
 
 Os dados do website serão requisitados da [seguinte API](https://tmdb-proxy.cubos-academy.workers.dev)
+
+##Tema Light:
+
+<div align="center">
+  <img src="https://github.com/RyanderGodinho/Loja_com_React/assets/112562924/1376fb8b-bf6a-441d-84ae-01c9873eac01" width="500px"/>
+</div>
+
+##Modal Tema Light:
+
+<div align="center">
+  <img src="https://github.com/RyanderGodinho/Loja_com_React/assets/112562924/035ad1d2-9e5c-4788-bb78-72239cfc6773" width="500px"/>
+</div>
+
+##Tema Dark:
+
+<div align="center">
+  <img src="https://github.com/RyanderGodinho/Loja_com_React/assets/112562924/5d5362c9-4f7d-4bc9-a135-381d4735a68a" width="500px"/>
+</div>
+
+##Modal Tema Dark:
+
+<div align="center">
+  <img src="https://github.com/RyanderGodinho/Loja_com_React/assets/112562924/483df856-594c-4656-9a68-a886b69b2e55" width="500px"/>
+</div>
 
 ## Detalhamentos de Requisitos
 
