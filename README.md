@@ -1,6 +1,6 @@
 # Aplicação para um serviço de streaming (pense num Netflix).
 
-Um website que permita:
+Um website que permite:
 
 - Visualização de filmes 
 - Paginação de filmes 
