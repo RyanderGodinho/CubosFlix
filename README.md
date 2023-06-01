@@ -9,8 +9,7 @@ Um website que permite:
 - Modal de filme 
 - Mudança de tema
 
-Os dados do website serão requisitados diretamente de uma API.
-As imagens logo abaixo já são do projeto que realizei em funcionamento.
+Os dados do website forão requisitados diretamente de uma API.
 
 ##Tema Light:
 
