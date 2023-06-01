@@ -1,4 +1,4 @@
-#Aplicação para um serviço de streaming (pense num Netflix).
+# Aplicação para um serviço de streaming (pense num Netflix).
 
 Um website que permita:
 
