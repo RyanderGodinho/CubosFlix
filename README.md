@@ -12,7 +12,7 @@ Seu papel é construir um website que permita:
 - Modal de filme 
 - Mudança de tema
 
-Os dados do website serão requisitados da [seguinte API](https://tmdb-proxy.cubos-academy.workers.dev)
+Os dados do website serão requisitados diretamente de uma API.
 
 ##Tema Light:
 
