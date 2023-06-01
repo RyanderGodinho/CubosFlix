@@ -13,6 +13,7 @@ Seu papel é construir um website que permita:
 - Mudança de tema
 
 Os dados do website serão requisitados diretamente de uma API.
+As imagens logo abaixo já são do projeto que realizei em funcionamento.
 
 ##Tema Light:
 
